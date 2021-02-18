@@ -1,0 +1,19 @@
+body {
+  font-family: Palatino;
+}
+
+#reading-list{
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+#reading-list >li{
+  list-style-type: none;
+  margin: 10px;
+  background-color: lime;
+  padding: 10px;
+  border-radius: 10px;
+  
+}
